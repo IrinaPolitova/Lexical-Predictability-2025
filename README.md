@@ -23,4 +23,4 @@ We are also taking part in some conferences. Here is the list of our main result
 
 The upcoming conferences:
 
-5. (FML 02-03.12.2025): **How internal is the Russian verbal aspect? Evidence from a predictability study.** Here we compared the prediction of verbal features, focusing primarily on the verbal aspect, and showed that aspect is less predictable than tense, but still predictable, especially if other verbs of the same aspect are present in the context. [Abstract](https://drive.google.com/file/d/1PlwXTjfgjWj-aTfs5nqcYV-3Xgp4jhd7/view)
+5. (FML 03.12.2025): **How internal is the Russian verbal aspect? Evidence from a predictability study.** Here we compared the prediction of verbal features, focusing primarily on the verbal aspect, and showed that aspect is less predictable than tense, but still predictable, especially if other verbs of the same aspect are present in the context. [Abstract](https://drive.google.com/file/d/1PlwXTjfgjWj-aTfs5nqcYV-3Xgp4jhd7/view)
