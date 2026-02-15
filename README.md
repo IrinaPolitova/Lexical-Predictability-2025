@@ -20,7 +20,9 @@ We are also taking part in some conferences. Here is the list of our main result
 2. (SPb Corpora 27.06.2025): **Lexical, morphosyntactic, and semantic predictability depend on different sets of factors.** Here we compared lexical, morphosyntactic, and semantic predictability and identified the factors that affect each of the predictability types, showing that the three types are different.
 3. (Summer Neurolinguistics School 04.07.2025): **Native speakers choose more abstract semantic levels when predicting missing words in the context.** Here we examined the semantic relations between what the speakers predict and what in fact needs to be predicted, showing that concrete words are avoided by speakers.
 4. (SKIL 27.09.2025): **Russian Gender is Less Predictable Than Case or Number Due to the Lack of Contextual Cues.** Here we analyzed the prediction of different nominal features (case, number, and gender) and the contextual cues that could have helped the participants to predict each of them.
-
-The upcoming conferences:
-
 5. (FML 03.12.2025): **How internal is the Russian verbal aspect? Evidence from a predictability study.** Here we compared the prediction of verbal features, focusing primarily on the verbal aspect, and showed that aspect is less predictable than tense, but still predictable, especially if other verbs of the same aspect are present in the context. [Abstract](https://drive.google.com/file/d/1PlwXTjfgjWj-aTfs5nqcYV-3Xgp4jhd7/view)
+
+The following studies are now in progress:
+
+1. **A chain-of-thought experiment:** we are conducting interview sessions to collect the insights into what helps the participants to predict words.
+2. **A left-right-context experiment:** we conducted an experiment to see which positions of cues (left / right; more / less distant) help the most during prediction.
