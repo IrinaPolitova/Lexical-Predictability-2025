@@ -1,4 +1,4 @@
-model,type,size,correlation with sem_ratio,correlation with guess_ratio
+model,type,size,correlation with SR,correlation with LR
 sergeyzh/rubert-mini-uncased,rubert,mini,"0,6926789072","0,8052648204"
 google-bert/bert-base-multilingual-uncased,bert,base,"0,6739631421","0,7654575495"
 sergeyzh/rubert-mini-frida,rubert,mini,"0,6719539503","0,7463106086"
